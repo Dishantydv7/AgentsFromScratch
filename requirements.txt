@@ -1,0 +1,4 @@
+colorama
+dotenv
+groq
+ipykernel
